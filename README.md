@@ -1,2 +1,2 @@
 # Studies
-Some programs from Algorithms and Data Structures laboratories
+Some old programs from Algorithms and Data Structures laboratories
